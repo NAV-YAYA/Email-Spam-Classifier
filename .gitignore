@@ -1,0 +1,15 @@
+# Virtual Environment
+.venv/
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Model files
+*.pkl
+
+# macOS
+.DS_Store
