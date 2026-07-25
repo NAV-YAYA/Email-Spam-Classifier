@@ -1,3 +1,4 @@
+# CITS6723
 # Email Spam Classifier
 
 A Machine Learning project that classifies SMS messages as **Spam** or **Ham (Not Spam)** using Natural Language Processing (NLP) and the Multinomial Naive Bayes algorithm.
